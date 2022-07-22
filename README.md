@@ -6,7 +6,7 @@ I'm Julie Decraene.<br>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
 
 
 # 👋🏾 Hey, I'm Bree!
@@ -19,7 +19,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
 ---
 ## 🔨 My Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
 ---
 ## ✏️ Currently Leanring
 🎨 **NextJS** - To build docs and my own blog
