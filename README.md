@@ -20,7 +20,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
 ---
 ## 🔨 My Current Tech Stack
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
