@@ -1,15 +1,12 @@
-<h1 align="center">Julie Decraene</h1>
-<h2 align="center">Learning Full Stack Web Development @thehackingschool</h2> <br>
-
- <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
+<br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
 I'm Julie Decraene.<br>
+<h2 align="center">Learning Full Stack Web Development @thehackingschool</h2> <br>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
 
-
-# 👋🏾 Hey, I'm Bree!
+<--!
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
 **Fun Facts**
 🌟  The first language I used to program "Hello World" was Java
@@ -17,13 +14,14 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
 ✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
 🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
----
+!-->
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
 ---
-## ✏️ Currently Leanring
-🎨 **NextJS** - To build docs and my own blog
+<--!## ✏️ Currently Learning
+
 🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
+!-->
 ---
 ## 🥳 Let's Get Social
 🌐 Follow me around the web!
