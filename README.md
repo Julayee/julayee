@@ -1,7 +1,7 @@
 <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
 I'm Julie Decraene.<br>
 <h2 align="center">Learning Full Stack Web Development @thehackingschool</h2> <br>
-<! --
+<!--
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
@@ -17,7 +17,8 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
 ---
-<! --## ✏️ Currently Learning
+<!-- 
+## ✏️ Currently Learning
 
 🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
 
