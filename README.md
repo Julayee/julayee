@@ -46,7 +46,7 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 <p align="left">
 <a href = "https://www.linkedin.com/in/julie-decraene-436967238/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-## ❤ Views and Followers
+## ❤ Views and Followers <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=julayee">
 </a>
