@@ -7,27 +7,14 @@ I'm Julie !<br>
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
-**Fun Facts**
-🌟  The first language I used to program "Hello World" was Java
-🧁  I've always loved baking and owned a cupcake business for a short period of time
-📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
-✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
-🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
 -->
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
----
-<!-- 
-## ✏️ Currently Learning
 
-🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
-
--->
 ---
 
 - 📫 How to reach me **julayee2@gmail.com**
 
-- ⚡ Fun fact **
 <br/>
 <p align="center">
     <a href="https://github.com/julayee/github-readme-streak-stats">
