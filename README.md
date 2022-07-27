@@ -1,12 +1,12 @@
 <br>Hi there, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
 I'm Julie !<br>
 <h2 align="center">Learning Full Stack Web Development @thehackingschool</h2> <br>
-<!--
+
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
--->
+
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
 
