@@ -8,7 +8,7 @@ I'm Julie !</h1>
 - 👨‍💻 **[My Portfolio](https://julayee.com)**
 -->
 
-I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
+I'm a front end developer and I'm currently working with React to create easy-to-use and beautiful web apps. 
 
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
