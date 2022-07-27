@@ -8,7 +8,7 @@ I'm Julie !</h1>
 - 👨‍💻 **[My Portfolio](https://julayee.com)**
 -->
 
-I'm a front end developer and I'm currently working with React to create easy-to-use and beautiful web apps. 
+<h2 align="center">I'm a front end developer and I'm currently working with React to create easy-to-use and beautiful web apps. </h2> <br>
 
 ## 🔨 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,react,redux)](https://skillicons.dev)
