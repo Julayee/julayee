@@ -2,7 +2,6 @@
 I'm Julie !<br>
 <h2 align="center">Learning Full Stack Web Development @thehackingschool</h2> <br>
 <!--
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://julayee.com)**
 
